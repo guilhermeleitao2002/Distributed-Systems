@@ -1,0 +1,8 @@
+pt/tecnico/ttt/server/NamingServer.class
+pt/tecnico/ttt/server/NamingServerMain.class
+pt/tecnico/ttt/server/ServiceEntry.class
+pt/tecnico/ttt/server/NamingServerServiceImpl.class
+pt/tecnico/ttt/server/TTTServer.class
+pt/tecnico/ttt/server/ServerEntry.class
+pt/tecnico/ttt/server/TTTGame.class
+pt/tecnico/ttt/server/TTTServiceImpl.class
