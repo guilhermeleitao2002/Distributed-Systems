@@ -1,2 +1,2 @@
 # Labs-SDis
-Labs bro
+Labs
